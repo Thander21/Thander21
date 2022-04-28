@@ -1,6 +1,6 @@
 <h1>Olá Sou Rahman Brussolo 🖥️</h1>
   <div> 
-  <a href = "mailto:rahman13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rahman13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rahman-brussolo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
@@ -10,7 +10,6 @@
 <br />- 🌱 Aprendendo (JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql) ...</h4>
 
 <br>
-
 
 <div align="center">
   <a href="https://github.com/Thander21">
