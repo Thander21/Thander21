@@ -15,23 +15,22 @@
  
  <h4>- Metodo de Estudo:</h4>
  
-<span><strong>- The Complete JavaScript</strong> com Jonas Schmedtmann - Curso em andamento<br/>
+<span><strong>The Complete JavaScript</strong> com Jonas Schmedtmann - Curso em andamento<br/>
 Repositorio aqui no git > https://github.com/Thander21/The-Complete-JavaScript<br/> 
-Com 3 projeto já criados em javascript ate o momento:
+Com 3 projeto já criados em javascript ate o momento:</span>
 <ul>
   <li>
-Guess-My-Number - https://github.com/Thander21/TCJ-Guess-My-Number
+    <strong>Guess-My-Number</strong> - https://github.com/Thander21/TCJ-Guess-My-Number
   </li>
   <li>
-    Modal - https://github.com/Thander21/TCJ-Modal
+    <strong>Modal</strong> - https://github.com/Thander21/TCJ-Modal
   </li>
   <li>
-    Pig-Game - https://github.com/Thander21/TCJ-Pig-Game
+    <strong>Pig-Game</strong> - https://github.com/Thander21/TCJ-Pig-Game
   </li>
-  </a> - <a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2002%20-%20%20Modal"  target="_blank"></a> - <a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2003%20-%20Pig-Game"  target="_blank">03 - Pig-Game</a>)</span>
-</ul>
-
-<span><strong>- Digital Innovation One<strong</strong> (Desenvolvedor Web Fullstack) - Curso em andamento<br/>
+ </ul>  <br/>
+  
+<span><strong>Digital Innovation One<strong</strong> (Desenvolvedor Web Fullstack) - Curso em andamento<br/>
 Repositorio aqui no git > https://github.com/Thander21/Digital-Innovation-One<br/>
 02 bootcampos em andamento:</span>
 <ul>
