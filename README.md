@@ -1,12 +1,11 @@
-<div align="center">
-    <img src="RahmanBrussolo.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
 <body>
  
 
 <h1>Web Developer Fullstack Repository 🖥️</h1>
-<h2>Rahman Brussolo</h2>
+    
+<div align="left">
+    <img src="RahmanBrussolo.svg" width="400" height="30" alt="Rahman Brussolo">
+</div>
 
 <div>
 <a href="mailto:rahman13@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"/></a>
