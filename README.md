@@ -10,10 +10,24 @@
  <h3 style="font-size: 30px">
         - 🎓 Estudo na DIO desenvolvimento WEB ...<br />
         - 🧠 Aprendendo (JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql) ...<br />
-        - Metodo de Estudo
  </h3>
+ 
+ <h4>- Metodo de Estudo:</h4>
+ 
+<strong>Curso em andamento</strong> - The Complete JavaScript com Jonas Schmedtmann
+Repositorio aqui no git > https://github.com/Thander21/The-Complete-JavaScript 
+Com 3 projeto já criados em javascript ate o momento (<a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2001%20-%20Guess-My-Number"  target="_blank">01 - Guess-My-Number</a> - <a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2002%20-%20%20Modal"  target="_blank">02 - Modal</a> - <a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2003%20-%20Pig-Game"  target="_blank">03 - Pig-Game</a>)
 
-<br>
+<strong>Curso em andamento</strong> - Digital Innovation One (Desenvolvedor Web Fullstack)
+Repositorio aqui no git > https://github.com/Thander21/Digital-Innovation-One
+02 bootcampos em andamento
+
+<strong>Curso em andamento</strong> - Bootcamp Spread Fullstack Developer
+Repositorio aqui no git > https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20Spread%20Fullstack%20Developer
+Cursso com 3 projetos já completos.
+ - 
+
+<br><br><br>
 
 <div align="center">
   <a href="https://github.com/Thander21">
