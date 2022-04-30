@@ -10,9 +10,9 @@
 
 <br/>
 
-<h3  style="font-size: 30px">
+<h3>
 - 🎓 Estudo na DIO desenvolvimento WEB ...<br />
-- 🧠 Aprendendo (JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql) ...<br />
+- 🧠 Aprendendo (JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql) ...
  
 <div  style="display: inline_block"><br>
 <img  align="center"  alt="RahmanBrussolo-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,6 +24,8 @@
 <img  align="center"  alt="RahmanBrussolo-mySql"  height="35"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
 </div>
 </h3>
+ 
+<br />
 
 <h4>- Metodo de Estudo:</h4>
 <span><strong>    The Complete JavaScript</strong> com Jonas Schmedtmann - Curso em andamento<br/>
@@ -61,7 +63,7 @@ Curso com 3 projetos já completos até o momento</li>
 
 <br/><br/>
 
-<div  align="center">
+<div  style="display: flex" align="center">
 <a  href="https://github.com/Thander21">
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=Thander21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thander21&layout=compact&langs_count=7&theme=dracula"/>
