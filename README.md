@@ -4,7 +4,7 @@
 <h1>Web Developer Fullstack Repository 🖥️</h1>
     
 <div align="left">
-    <img src="RahmanBrussolo.svg" width="400" height="30" alt="Rahman Brussolo">
+    <img src="RahmanBrussolo.svg" width="400" height="57" alt="Rahman Brussolo">
 </div>
 
 <div>
