@@ -6,8 +6,12 @@
 
 <br>
 
-<h4>- 🔭 Estudo na DIO desenvolvimento WEB ...
-<br />- 🌱 Aprendendo (JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql) ...</h4>
+
+ <h3 style="font-size: 30px">
+        - 🎓 Estudo na DIO desenvolvimento WEB ...<br />
+        - 🧠 Aprendendo (JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql) ...<br />
+        - Metodo de Estudo
+ </h3>
 
 <br>
 
