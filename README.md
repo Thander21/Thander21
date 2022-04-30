@@ -13,71 +13,7 @@
 <h3  style="font-size: 30px">
 - 🎓 Estudo na DIO desenvolvimento WEB ...<br />
 - 🧠 Aprendendo (JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql) ...<br />
-</h3>
-
-<h4>- Metodo de Estudo:</h4>
-<span><strong>The Complete JavaScript</strong> com Jonas Schmedtmann - *Curso em andamento*<br/>
-<a href="https://github.com/Thander21/The-Complete-JavaScript">Repositorio aqui no GitHub</a><br/>
-Com 3 projeto já criados em javascript ate o momento: </span>
-<ul>
-<li><strong>Guess-My-Number</strong> - <a href="https://github.com/Thander21/TCJ-Guess-My-Number">Repositorio GitHub</a></li>
-<li><strong>Modal</strong> - <a href="https://github.com/Thander21/TCJ-Modal"Repositorio GitHub</a></li>
-<li><strong>Pig-Game</strong> - <a href="https://github.com/Thander21/TCJ-Pig-Game"Repositorio GitHub</a></li>
-</ul>
-
- <br/>
-
-<span><strong>Digital Innovation One</strong> (Desenvolvedor Web Fullstack) - Curso em andamento<br/>
-<a href="https://github.com/Thander21/Digital-Innovation-One"> Repositorio aqui no GitHub<a/><br/>
-02 bootcampos em andamento:</span>
-
-<ul>
-<li>
-<strong>Bootcamp Spread Fullstack Developer</strong> - Curso em andamento<br/>
-<a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20Spread%20Fullstack%20Developer">Repositorio aqui no GitHub </a><br/>
-Curso com 3 projetos já completos até o momento
-</li>
-<ul>
-<li>
-
-<strong>CSS FlexBox pagina Turismo</strong> - <a href="https://github.com/Thander21/DIO-CSS-Projeto-Flexbox"Repositorio GitHub</a>
-</li>
-<li>
-
-<strong>Recriando Pagina Login do Instagram</strong> - <a href="https://github.com/Thander21/DIO-Desafio-Recriando-Login-Instagram"Repositorio GitHub</a>
-</li>
-
-<li>
-
-<strong>Sistema de Estacionamento com TypeScript</strong> - <a href="https://github.com/Thander21/DIO-Projeto-Sistema-de-Estacionamento-com-TypeScript"Repositorio GitHub</a>
-</li>
-</ul>
-
-<li>
-<strong>Bootcamp HTML Web Developer</strong> - Curso em andamento<br/>
-<a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20HTML%20Web%20Developer">Repositorio aqui no GitHub</a><br/>
-Curso com 2 projetos em andamento
-</li>
-
-<ul>
-<li>
-
-<strong>Recriando o Site do Netflix</strong> - Em Construção
-</li>
-<li>
-
-<strong>Jogo da Cobrinha Javascript</strong> - Em Construção
-</li>
-</ul>
-
-<br/><br/>
-
-<div  align="center">
-<a  href="https://github.com/Thander21">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=Thander21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thander21&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+ 
 <div  style="display: inline_block"><br>
 <img  align="center"  alt="RahmanBrussolo-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img  align="center"  alt="RahmanBrussolo-Ts"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -86,6 +22,56 @@ Curso com 2 projetos em andamento
 <img  align="center"  alt="RahmanBrussolo-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img  align="center"  alt="RahmanBrussolo-NodeJs"  height="35"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg">
 <img  align="center"  alt="RahmanBrussolo-mySql"  height="35"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
+</div>
+</h3>
+
+<h4>- Metodo de Estudo:</h4>
+<span><strong>    The Complete JavaScript</strong> com Jonas Schmedtmann - Curso em andamento<br/>
+<a href="https://github.com/Thander21/The-Complete-JavaScript">Repositorio aqui no GitHub</a><br/>
+Com 3 projeto já criados em javascript ate o momento: </span>
+<ul>
+<li><strong>Guess-My-Number</strong> - <a href="https://github.com/Thander21/TCJ-Guess-My-Number">Repositorio GitHub</a></li>
+<li><strong>Modal</strong> - <a href="https://github.com/Thander21/TCJ-Modal">Repositorio GitHub</a></li>
+<li><strong>Pig-Game</strong> - <a href="https://github.com/Thander21/TCJ-Pig-Game">Repositorio GitHub</a></li>
+</ul>
+
+ <br/>
+
+<span><strong>    Digital Innovation One</strong> (Desenvolvedor Web Fullstack) - Curso em andamento<br/>
+<a href="https://github.com/Thander21/Digital-Innovation-One"> Repositorio aqui no GitHub<a/><br/>
+02 bootcampos em andamento:</span>
+
+<ul>
+<li>
+ <strong>Bootcamp Spread Fullstack Developer</strong> - Curso em andamento<br/><a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20Spread%20Fullstack%20Developer">Repositorio aqui no GitHub </a><br/>
+Curso com 3 projetos já completos até o momento
+</li>
+ 
+<ul>
+ 
+<li><strong>CSS FlexBox pagina Turismo</strong> - <a href="https://github.com/Thander21/DIO-CSS-Projeto-Flexbox">Repositorio GitHub</a></li>
+<li><strong>Recriando Pagina Login do Instagram</strong> - <a href="https://github.com/Thander21/DIO-Desafio-Recriando-Login-Instagram">Repositorio GitHub</a></li>
+<li><strong>Sistema de Estacionamento com TypeScript</strong> - <a href="https://github.com/Thander21/DIO-Projeto-Sistema-de-Estacionamento-com-TypeScript">Repositorio GitHub</a></li>
+ 
+</ul>
+
+ <br/>
+ 
+<li>
+ <strong>Bootcamp HTML Web Developer</strong> - Curso em andamento<br/><a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20HTML%20Web%20Developer">Repositorio aqui no GitHub</a><br/>Curso com 2 projetos em andamento
+ </li>
+ 
+<ul>
+<li><strong>Recriando o Site do Netflix</strong> - Em Construção</li>
+<li><strong>Jogo da Cobrinha Javascript</strong> - Em Construção</li>
+</ul>
+
+<br/><br/>
+
+<div  align="center">
+<a  href="https://github.com/Thander21">
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=Thander21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thander21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 </body>
