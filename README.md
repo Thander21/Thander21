@@ -65,8 +65,8 @@ Curso com 3 projetos já completos até o momento</li>
 
 <div align="center">
 <a  href="https://github.com/Thander21" style="display: flex" justify-content"center">
-<img  height="170em"  src="https://github-readme-stats.vercel.app/api?username=Thander21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img  height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thander21&layout=compact&langs_count=7&theme=dracula"/>
+<img  height="140em"  src="https://github-readme-stats.vercel.app/api?username=Thander21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thander21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 </body>
