@@ -1,18 +1,21 @@
-<svg fill="none" viewBox="50 20 250 50" width="300" height="40" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 20 400 50" width="300" height="40" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h1 {
-                color: #bfbaba;
+            div {
+                color: black;
                 animation: mymove 10s infinite;
+                position: relative;
             }
 
             @keyframes mymove {
-                0% {color: balck;}
-                50% {color: #6489c8;}
-                100% {color: black;}
-                
-            }
+                0% {color: balck; left: 0px;}
+                25% {color: #6489c8;}
+                50% {color: black; left: 150px;}
+                75% {color: #6489c8;}
+                100% {color: black; left: 0px;}
+                }
+                           
             </style>
             <h1>Rahman Brussolo</h1>
         </div>
