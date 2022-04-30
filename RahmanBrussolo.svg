@@ -1,22 +1,22 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="50 20 250 50" width="300" height="40" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
-                color: red;
+                color: blue;
                 animation: mymove 2s infinite;
             }
 
             @keyframes mymove {
                 from {
-                    color: red;
+                    color: green;
                 }
                 to {
-                    color: yellow;
+                    color: orange;
                 }
             }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <h1>Rahman Brussolo</h1>
         </div>
     </foreignObject>
 </svg>
