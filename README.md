@@ -40,30 +40,23 @@ Com 3 projeto já criados em javascript ate o momento: </span>
 <span><strong>    Digital Innovation One</strong> (Desenvolvedor Web Fullstack) - Curso em andamento<br/>
 <a href="https://github.com/Thander21/Digital-Innovation-One"> Repositorio aqui no GitHub<a/><br/>
 02 bootcampos em andamento:</span>
-
 <ul>
-<li>
- <strong>Bootcamp Spread Fullstack Developer</strong> - Curso em andamento<br/><a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20Spread%20Fullstack%20Developer">Repositorio aqui no GitHub </a><br/>
-Curso com 3 projetos já completos até o momento
-</li>
+<li><strong>Bootcamp Spread Fullstack Developer</strong> - Curso em andamento<br/><a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20Spread%20Fullstack%20Developer">Repositorio aqui no GitHub </a><br/>
+Curso com 3 projetos já completos até o momento</li>
  
 <ul>
- 
 <li><strong>CSS FlexBox pagina Turismo</strong> - <a href="https://github.com/Thander21/DIO-CSS-Projeto-Flexbox">Repositorio GitHub</a></li>
 <li><strong>Recriando Pagina Login do Instagram</strong> - <a href="https://github.com/Thander21/DIO-Desafio-Recriando-Login-Instagram">Repositorio GitHub</a></li>
 <li><strong>Sistema de Estacionamento com TypeScript</strong> - <a href="https://github.com/Thander21/DIO-Projeto-Sistema-de-Estacionamento-com-TypeScript">Repositorio GitHub</a></li>
  
 </ul>
-
- <br/>
  
-<li>
- <strong>Bootcamp HTML Web Developer</strong> - Curso em andamento<br/><a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20HTML%20Web%20Developer">Repositorio aqui no GitHub</a><br/>Curso com 2 projetos em andamento
- </li>
+<li> <strong>Bootcamp HTML Web Developer</strong> - Curso em andamento<br/><a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20HTML%20Web%20Developer">Repositorio aqui no GitHub</a><br/>Curso com 2 projetos em andamento </li>
  
 <ul>
 <li><strong>Recriando o Site do Netflix</strong> - Em Construção</li>
 <li><strong>Jogo da Cobrinha Javascript</strong> - Em Construção</li>
+ 
 </ul>
 
 <br/><br/>
