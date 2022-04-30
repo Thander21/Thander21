@@ -73,3 +73,5 @@ Curso com 3 projetos já completos até o momento</li>
 </div>
 
 </body>
+
+ [^1]: sobre mim - <a href="https://www.linkedin.com/in/rahman-brussolo/"></a>
