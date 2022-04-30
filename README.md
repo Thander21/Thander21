@@ -1,11 +1,12 @@
-<h1>Olá Sou Rahman Brussolo 🖥️</h1>
-  <div> 
+<h1>Web Developer Fullstack Repository 🖥️</h1>
+<h2>Rahman Brussolo</h2>
+
+<div> 
   <a href = "mailto:rahman13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rahman-brussolo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<br>
-
+<br/>
 
  <h3 style="font-size: 30px">
         - 🎓 Estudo na DIO desenvolvimento WEB ...<br />
@@ -14,20 +15,27 @@
  
  <h4>- Metodo de Estudo:</h4>
  
-<strong>Curso em andamento</strong> - The Complete JavaScript com Jonas Schmedtmann
-Repositorio aqui no git > https://github.com/Thander21/The-Complete-JavaScript 
-Com 3 projeto já criados em javascript ate o momento (<a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2001%20-%20Guess-My-Number"  target="_blank">01 - Guess-My-Number</a> - <a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2002%20-%20%20Modal"  target="_blank">02 - Modal</a> - <a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2003%20-%20Pig-Game"  target="_blank">03 - Pig-Game</a>)
+<span><strong>- The Complete JavaScript</strong> com Jonas Schmedtmann - Curso em andamento<br/>
+Repositorio aqui no git > https://github.com/Thander21/The-Complete-JavaScript<br/> 
+Com 3 projeto já criados em javascript ate o momento (<a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2001%20-%20Guess-My-Number"  target="_blank">01 - Guess-My-Number</a> - <a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2002%20-%20%20Modal"  target="_blank">02 - Modal</a> - <a href="https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2003%20-%20Pig-Game"  target="_blank">03 - Pig-Game</a>)</span>
 
-<strong>Curso em andamento</strong> - Digital Innovation One (Desenvolvedor Web Fullstack)
-Repositorio aqui no git > https://github.com/Thander21/Digital-Innovation-One
-02 bootcampos em andamento
-
-<strong>Curso em andamento</strong> - Bootcamp Spread Fullstack Developer
-Repositorio aqui no git > https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20Spread%20Fullstack%20Developer
-Cursso com 3 projetos já completos.
- - 
-
-<br><br><br>
+<span><strong>- Digital Innovation One<strong</strong> (Desenvolvedor Web Fullstack) - Curso em andamento<br/>
+Repositorio aqui no git > https://github.com/Thander21/Digital-Innovation-One<br/>
+02 bootcampos em andamento:</span>
+<ul>
+  <li>
+<strong>Bootcamp Spread Fullstack Developer</strong> - Curso em andamento<br/>
+Repositorio aqui no git > https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20Spread%20Fullstack%20Developer<br/>
+Cursso com 3 projetos já completos
+  </li>
+  <li>
+  <strong>Bootcamp HTML Web Developer</strong> - Curso em andamento<br/>
+Repositorio aqui no git > https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20HTML%20Web%20Developer<br/>
+Cursso com 2 projetos em andamento
+  </li>
+</ul>
+  
+<br/><br/>
 
 <div align="center">
   <a href="https://github.com/Thander21">
@@ -43,7 +51,7 @@ Cursso com 3 projetos já completos.
   <img align="center" alt="RahmanBrussolo-mySql" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">    
       
 </div>
-</div>
+
   
 
   
