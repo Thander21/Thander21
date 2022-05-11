@@ -52,9 +52,9 @@ Com 3 projeto já criados em javascript ate o momento: </span>
 Curso com 3 projetos já completos até o momento</li>
  
 <ul>
-<li><strong>CSS FlexBox pagina Turismo</strong> - <a href="https://github.com/Thander21/DIO-CSS-Projeto-Flexbox">Repositorio GitHub</a></li>
-<li><strong>Recriando Pagina Login do Instagram</strong> - <a href="https://github.com/Thander21/DIO-Desafio-Recriando-Login-Instagram">Repositorio GitHub</a></li>
-<li><strong>Sistema de Estacionamento com TypeScript</strong> - <a href="https://github.com/Thander21/DIO-Projeto-Sistema-de-Estacionamento-com-TypeScript">Repositorio GitHub</a></li>
+<li><strong>CSS FlexBox pagina Turismo</strong> - <a href="https://github.com/Thander21/DIO-CSS-Projeto-Flexbox">Repositorio GitHub</a> - <a href="https://thander21.github.io/DIO-CSS-Projeto-Flexbox/" target="_blank">GitHub Pages</a></li>
+<li><strong>Recriando Pagina Login do Instagram</strong> - <a href="https://github.com/Thander21/DIO-Desafio-Recriando-Login-Instagram">Repositorio GitHub</a> - <a href="https://thander21.github.io/DIO-Desafio-Recriando-Login-Instagram/" target="_blank">GitHub Pages</a></li>
+<li><strong>Sistema de Estacionamento com TypeScript</strong> - <a href="https://github.com/Thander21/DIO-Projeto-Sistema-de-Estacionamento-com-TypeScript">Repositorio GitHub</a> - <a href="https://thander21.github.io/DIO-Projeto-Sistema-de-Estacionamento-com-TypeScript/" target="_blank">GitHub Pages</a></li>
  
 </ul>
  
