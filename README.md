@@ -39,7 +39,7 @@ Com 3 projeto já criados em javascript ate o momento: </span>
 <ul>
 <li><strong>Guess-My-Number</strong> - <a href="https://github.com/Thander21/TCJ-Guess-My-Number">Repositorio GitHub</a></li>
 <li><strong>Modal</strong> - <a href="https://github.com/Thander21/TCJ-Modal">Repositorio GitHub</a></li>
-<li><strong>Pig-Game</strong> - <a href="https://github.com/Thander21/TCJ-Pig-Game">Repositorio GitHub</a></li>
+<li><strong>Pig-Game</strong> - <a href="https://github.com/Thander21/TCJ-Pig-Game">Repositorio GitHub</a> - <a href="https://thander21.github.io/TCJ-Pig-Game/" target="_blank">Testar o App</a></li>
 </ul>
 
  <br/>
