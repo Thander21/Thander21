@@ -4,7 +4,7 @@
 <h1>Web Developer Fullstack Repository 🖥️</h1>
     
 <div align="left">
-    <span Stile: "width:400 height: 57>Rahman Brussolo<span/>
+   <span style="width: 400px; height: 57px;">Rahman Brussolo</span>
      
 </div>
 <br/>
