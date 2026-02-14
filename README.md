@@ -14,8 +14,8 @@
 <br/>
 
 <h3>
-- 🎓 Estudo na DIO desenvolvimento WEB ...<br />
-- 🧠 Aprendendo (JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql) ...
+- 🎓 Desenvolvedor Outsystems<br />
+- 🧠 JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql, Flutter/Dart, Python) ...
  
 <div  style="display: inline_block"><br>
 <img  align="center"  alt="RahmanBrussolo-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
