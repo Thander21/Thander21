@@ -1,79 +1,58 @@
-<body>
- 
+# 💎 Rahman Brussolo | Product Engineer AI-Native
 
-<h1>Rahman Brussolo | Web Developer Repository 🖥️</h1>
-    
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Product%20Engineer%20AI--Native-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Seniority-25+%20Years-green?style=for-the-badge" alt="Seniority">
+  <img src="https://img.shields.io/badge/Focus-Scalability%20%26%20ROI-orange?style=for-the-badge" alt="Focus">
+</p>
 
-<div>
-<a href="mailto:rahman13@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"/></a>
-<a href="https://www.linkedin.com/in/rahman-brussolo/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"/></a>
- 
-</div>
+---
 
-<br/>
+### 🚀 Sobre Mim
+Com mais de **25 anos na linha de frente da tecnologia**, minha trajetória une visão estratégica (**Ex-CEO**) e entrega técnica pragmática. Como um **Engenheiro de Produto AI-Native**, vejo a linguagem de programação como uma escolha tática, não uma barreira. Utilizo IA para transcender sintaxes e focar no que realmente importa: **Arquitetura, Lógica e Resultados de Negócio.**
 
-<h3>
-- 🎓 Desenvolvedor Outsystems<br />
-- 🧠 JavaScript, TypeScript, ReacJs, HTML, CSS, NodeJS, Sql/noSql, Flutter/Dart, Python) ...
- 
-<div  style="display: inline_block"><br>
-<img  align="center"  alt="RahmanBrussolo-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img  align="center"  alt="RahmanBrussolo-Ts"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img  align="center"  alt="RahmanBrussolo-React"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img  align="center"  alt="RahmanBrussolo-HTML"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img  align="center"  alt="RahmanBrussolo-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img  align="center"  alt="RahmanBrussolo-NodeJs"  height="35"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg">
-<img  align="center"  alt="RahmanBrussolo-mySql"  height="35"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
-</div>
-</h3>
- 
-<br />
+Minha tese técnica é baseada na **resiliência operacional**. Sou especialista em construir ecossistemas que funcionam no "mundo real", com foco em **Arquiteturas Offline-First**, sistemas de missão crítica e automação inteligente.
 
-<h4>- Metodo de Estudo:</h4>
-<span><strong>    The Complete JavaScript</strong> com Jonas Schmedtmann - Curso em andamento<br/>
-<a href="https://github.com/Thander21/The-Complete-JavaScript">Repositorio aqui no GitHub</a><br/>
-Com 3 projeto já criados em javascript ate o momento: </span>
-<ul>
-<li><strong>Guess-My-Number</strong> - <a href="https://github.com/Thander21/TCJ-Guess-My-Number">Repositorio GitHub</a> - <a href="https://thander21.github.io/TCJ-Guess-My-Number/" target="_blank">GitHub Pages</a></li>
-<li><strong>Modal</strong> - <a href="https://github.com/Thander21/TCJ-Modal">Repositorio GitHub</a> - <a href="https://thander21.github.io/TCJ-Modal/" target="_blank">GitHub Pages</a></li>
-<li><strong>Pig-Game</strong> - <a href="https://github.com/Thander21/TCJ-Pig-Game">Repositorio GitHub</a> - <a href="https://thander21.github.io/TCJ-Pig-Game/" target="_blank">GitHub Pages</a></li>
-</ul>
+---
 
- <br/>
-
-<span><strong>    Digital Innovation One</strong> (Desenvolvedor Web Fullstack) - Curso em andamento<br/>
-<a href="https://github.com/Thander21/Digital-Innovation-One"> Repositorio aqui no GitHub<a/><br/>
-02 bootcampos em andamento:</span>
-<ul>
-<li><strong>Bootcamp Spread Fullstack Developer</strong> - Curso em andamento<br/><a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20Spread%20Fullstack%20Developer">Repositorio aqui no GitHub </a><br/>
-Curso com 3 projetos já completos até o momento</li>
- 
-<ul>
-<li><strong>CSS FlexBox pagina Turismo</strong> - <a href="https://github.com/Thander21/DIO-CSS-Projeto-Flexbox">Repositorio GitHub</a> - <a href="https://thander21.github.io/DIO-CSS-Projeto-Flexbox/" target="_blank">GitHub Pages</a></li>
-<li><strong>Recriando Pagina Login do Instagram</strong> - <a href="https://github.com/Thander21/DIO-Desafio-Recriando-Login-Instagram">Repositorio GitHub</a> - <a href="https://thander21.github.io/DIO-Desafio-Recriando-Login-Instagram/" target="_blank">GitHub Pages</a></li>
-<li><strong>Sistema de Estacionamento com TypeScript</strong> - <a href="https://github.com/Thander21/DIO-Projeto-Sistema-de-Estacionamento-com-TypeScript">Repositorio GitHub</a> - <a href="https://thander21.github.io/DIO-Projeto-Sistema-de-Estacionamento-com-TypeScript/" target="_blank">GitHub Pages</a></li>
- 
-</ul>
- 
-<li> <strong>Bootcamp HTML Web Developer</strong> - Curso em andamento<br/><a href="https://github.com/Thander21/Digital-Innovation-One/tree/master/Bootcamp%20HTML%20Web%20Developer">Repositorio aqui no GitHub</a><br/>Curso com 2 projetos em andamento </li>
- 
-<ul>
-<li><strong>Recriando o Site do Netflix</strong> - Em Construção</li>
-<li><strong>Jogo da Cobrinha Javascript</strong> - Em Construção</li>
- 
-</ul>
-
-<br/><br/>
-
+### 🛠️ Tech Stack & Ecossistema
 <div align="center">
-<a  href="https://github.com/Thander21" style="display: flex" justify-content"center">
-<img  height="170em"  src="https://github-readme-stats.vercel.app/api?username=Thander21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img  height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thander21&layout=compact&langs_count=7&theme=dracula"/>
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Core Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Low-Code Enterprise** | ![OutSystems](https://img.shields.io/badge/OutSystems-E11921?style=flat-square&logo=outsystems&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
+| **Cloud & Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![SRE](https://img.shields.io/badge/SRE-Mission_Critical-blueviolet) |
+
 </div>
 
-</body>
+---
 
- <br/><br/>
- 
- [^1]:<a href="https://www.linkedin.com/in/rahman-brussolo/">Mais sobre Rahman Brussolo acesso o Linkdin</a>[^1]
+### 🛡️ Filosofia de Engenharia: "Tudo 9"
+Acredito em **Governança Automatizada**. Meus projetos seguem um pipeline rigoroso de 9 pontos antes de qualquer deploy, garantindo integridade de dados, isolamento de tenancy e resiliência de UI. 
+
+> *"Software deve ser um ativo financeiro, não um custo de manutenção."*
+
+---
+
+### 🏗️ Projetos em Destaque
+- **[ERP PDV D+](https://github.com/Thander21/ERP-PDV-D-plus)**: Ecossistema de vendas Offline-First com sincronização via PowerSync e governança assistida por IA.
+- **VittaSync**: Hub de consultoria para modernização de legados e orquestração de Agentes de IA.
+
+---
+
+### 📫 Conecte-se Comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahman-brussolo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://rahmanbrussolo.substack.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>"Transformando visão de negócio em engenharia prática."</i>
+</p>
