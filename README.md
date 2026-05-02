@@ -47,7 +47,7 @@ Acredito em **Governança Automatizada**. Meus projetos seguem um pipeline rigor
   <a href="https://www.linkedin.com/in/rahman-brussolo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://rahmanbrussolo.substack.com/" target="_blank">
+  <a href="https://substack.com/@bosquae852539" target="_blank">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
   </a>
 </p>
