@@ -1,5 +1,5 @@
-# 💎 Rahman Brussolo | Analista Funcional · Engenheiro Agêntico
-Desenvolvedor OutSystems Certificado
+# 💎 Rahman Brussolo 
+Analista Funcional · Engenheiro Agêntico · Desenvolvedor OutSystems Certificado
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Product%20Engineer%20AI--Native-blue?style=for-the-badge" alt="Role">
