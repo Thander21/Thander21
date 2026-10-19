@@ -57,8 +57,8 @@ Se você precisa de uma liderança técnica com casca grossa para construir prod
 
 ---
 
-### 🛡️ Filosofia de Engenharia: "Tudo 9"
-Acredito em **Governança Automatizada**. Meus projetos seguem um pipeline rigoroso de 9 pontos antes de qualquer deploy, garantindo integridade de dados, isolamento de tenancy e resiliência de UI. 
+### 🛡️ Filosofia de Engenharia: "Campo de Força"
+Acredito em **Governança Automatizada**. Meus projetos seguem um pipeline rigoroso de diversos pontos antes de qualquer deploy, garantindo integridade de dados, isolamento de tenancy e resiliência de UI. 
 
 > *"Software deve ser um ativo financeiro, não um custo de manutenção."*
 
