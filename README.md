@@ -9,9 +9,37 @@
 ---
 
 ### 🚀 Sobre Mim
-Com mais de **25 anos na linha de frente da tecnologia**, minha trajetória une visão estratégica (**Ex-CEO**) e entrega técnica pragmática. Como um **Engenheiro de Produto AI-Native**, vejo a linguagem de programação como uma escolha tática, não uma barreira. Utilizo IA para transcender sintaxes e focar no que realmente importa: **Arquitetura, Lógica e Resultados de Negócio.**
+### 🛡️ Engenheiro Agêntico
 
-Minha tese técnica é baseada na **resiliência operacional**. Sou especialista em construir ecossistemas que funcionam no "mundo real", com foco em **Arquiteturas Offline-First**, sistemas de missão crítica e automação inteligente.
+O mercado saturou-se de protótipos frágeis gerados por tentativas no chat. Minha abordagem inverte essa lógica:
+
+• **Spec-Driven Development (SDD)**: A especificação técnica, contratos de API e arquitetura do sistema são a fonte única da verdade antes de qualquer geração de código.
+
+• **Quality Gates Determinísticos**: Todo fluxo assistido por agentes passa por validações rígidas automatizadas (análise estática, testes de regressão, lint e revisão humana de arquitetura).
+
+• **Orquestração de Agentes & MCP**: Integração de agentes de desenvolvimento com Model Context Protocol (MCP), delimitando contexto para entrega rápida sem alucinações.
+
+---
+
+### ⚙️ Arquitetura, Produto & Stack
+
+Domino ecossistemas de alta disponibilidade, conectando o Low-Code ao High-Code moderno:
+
+• **Engenharia de Produto & Mobile**: Arquiteturas Offline-First (Flutter + PowerSync / SQLite) e SaaS modernos (Supabase, Next.js/TypeScript).
+
+• **Enterprise & Low-Code**: Sólida experiência em OutSystems (Reactive/Mobile/APIs) para operações corporativas que exigem velocidade e governança.
+
+• **Automação & Dados**: Python, n8n, microsserviços orientados a eventos e scrapers resilientes (OSINT).
+
+• **Infraestrutura Soberana**: SRE, Docker, ambientes self-hosted e monitoramento proativo (Zabbix).
+
+---
+
+### 💼 Mentalidade de Dono (ROI & Execução)
+
+Através da **VittaSync**, atuo como consultor e desenvolvedor sênior estratégico. Não adoto tecnologia pelo hype, mas pelo impacto na última linha do balanço (redução de até 30% em churn técnico, aceleração de até 10x no ciclo de entrega com governança).
+
+Se você precisa de uma liderança técnica com casca grossa para construir produtos resilientes ou modernizar seu ciclo de desenvolvimento com agentes de IA sem abrir mão da engenharia séria, vamos conversar.
 
 ---
 
